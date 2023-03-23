@@ -18,6 +18,6 @@
 
 <p  align="center"><img src="https://github-readme-stats-khanhduy-14.vercel.app/api/top-langs?username=khanhduy-14&show_icons=true&locale=en&layout=compact&card_width=520&langs_count=20&theme=darcula" alt="khanhduy-14"/></p>
 
-<p  align="center">&nbsp;<img  src="https://github-readme-stats-khanhduy-14.vercel.app//api?username=khanhduy-14&show_icons=true&locale=en&theme=darcula" alt="khanhduy-14"/></p>
+<p  align="center">&nbsp;<img  src="https://github-readme-stats-khanhduy-14.vercel.app//api?username=khanhduy-14&show_icons=true&locale=en&theme=darcula&hide=issues,contribs" alt="khanhduy-14"/></p>
 
 <p  align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=khanhduy-14&theme=darcula" alt="khanhduy-14"/></p>
