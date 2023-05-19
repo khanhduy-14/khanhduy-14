@@ -9,13 +9,22 @@
 
 ## <h2>Social Networks</h2>
 
-<p  align="center"><a href="https://linkedin.com/in/khanhduydev" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khanhduydev" height="30" width="40" align="center" /></a>
-<a href="https://stackoverflow.com/users/20029843" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="thkd" height="30" width="40" align="center" />
+<p  align="left">
+
 </a>
-</p>
-<p  align="center">
- <a href="https://app.daily.dev/khanhduy14" target="blank" ><img src="https://github.com/khanhduy-14/khanhduy-14/blob/main/devcard.svg" width="300" height="400"  alt="khanhduy14's Dev Card"/></a>
-  
+   <a href="https://linkedin.com/in/khanhduydev" target="blank">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+ <a href="https://stackoverflow.com/users/20029843" target="blank">
+    <img
+      src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&&style=flat-square"
+      alt="Stack Overflow"
+    />
+  </a>
+
 </p>
 
 ## <h2 align="left" display="inline" width="50%">Github Statistics:</h2>
