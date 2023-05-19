@@ -12,13 +12,13 @@
 <p  align="left">
 
 </a>
-   <a href="https://linkedin.com/in/khanhduydev" target="blank">
+   <a href="https://linkedin.com/in/khanhduydev" target="_blank">
     <img
       src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
       alt="LinkedIn"
     />
   </a>
- <a href="https://stackoverflow.com/users/20029843" target="blank">
+ <a href="https://stackoverflow.com/users/20029843" target="_blank">
     <img
       src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&&style=flat-square"
       alt="Stack Overflow"
