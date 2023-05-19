@@ -14,7 +14,7 @@
 </a>
    <a href="https://linkedin.com/in/khanhduydev" target="_blank">
     <img
-      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
