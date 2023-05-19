@@ -14,7 +14,7 @@
 </a>
 </p>
 <p  align="center">
- <a href="https://app.daily.dev/khanhduy14" target="blank" ><img src="https://api.daily.dev/devcards/4675b80f2b2d4a42923a7f1e0e75b53a.png?r=o5p" width="300" height="400"  alt="khanhduy14's Dev Card"/></a>
+ <a href="https://app.daily.dev/khanhduy14" target="blank" ><img src="https://github.com/khanhduy-14/khanhduy-14/blob/main/devcard.svg" width="300" height="400"  alt="khanhduy14's Dev Card"/></a>
   
 </p>
 
