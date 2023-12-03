@@ -1,12 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm khanhduy-14</h1>
 
-<h3 align="center">Learn. Practice. Be Awesome.</h3>
-
-
-- 🌱 I interested in **Web and Blockchain**
-
-
 ## <h2>Social Networks</h2>
 
 <p  align="left">
@@ -21,6 +15,13 @@
  <a href="https://stackoverflow.com/users/20029843" target="_blank">
     <img
       src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&&style=flat-square"
+      alt="Stack Overflow"
+    />
+  </a>
+
+   <a href="https://www.keybr.com/profile/n5pfa9n" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Keybr-444257?style=flat-square"
       alt="Stack Overflow"
     />
   </a>
