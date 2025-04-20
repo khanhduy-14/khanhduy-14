@@ -2,7 +2,7 @@
 
 - I'm a Software Engineer
 - Passionate about crafting solutions.
-- Currently diving deeper into AWS and Networking.
+- Currently diving deeper into Cloud Computing and Network.
 - I enjoy running, chess, and working out. But when I'm not doing those, I'm diving deep into coding!
 
 <a href="mailto:tranhakhanhduy.dev@gmail.com" target="_blank">
