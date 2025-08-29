@@ -1,4 +1,4 @@
-# Hi there, I'm khanhduy-14! <img src="https://github.com/khanhduy-14/khanhduy-14/blob/main/nooooooo.gif" width="124" align="right" />
+# Hi there, I'm khanhduy-14!
 
 - I'm a Software Engineer
 - Passionate about crafting solutions.
