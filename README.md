@@ -1,8 +1,8 @@
 # Hi there, I'm khanhduy-14!
 
-- I'm a Software Engineer
-- Passionate about crafting solutions.
-- Currently diving deeper into Cloud Computing and Network.
+- I work primarily in the JavaScript ecosystem, designing and implementing production-grade applications with clean architecture principles and system-level thinking.
+- Currently, I am pursuing a Master’s degree in Computer Science to deepen my knowledge in distributed systems, artificial intelligence, and advanced software engineering.
+- I believe in long-term growth — mastering fundamentals, system design, and engineering discipline rather than chasing short-term trends.
 
 <a href="mailto:tranhakhanhduy.dev@gmail.com" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" />
@@ -25,23 +25,25 @@
 JavaScript, TypeScript, Python
 
 ### Frameworks
-React, Next.js, Astro  
-Express.js, Node.js, NestJS
+Primary tech: NodeJS (ExpressJS/NestJS), ReactJS
+Secondary tech: Pytorch, Tensorflow
 
 ### Development Tools
-**Version Control:** Git, GitHub  
+**Version Control:** Git, GitHub, GitLab
 **CI/CD:** GitHub Actions  
 **Containers:** Docker, Kubernetes
 
 ### Databases
-PostgreSQL, MongoDB
+PostgreSQL, MongoDB, Redis 
+
+### Messaging & Streaming
+Apache Kafka 
 
 ### Cloud & Infrastructure
 Microservices Architecture  
-Linux System Administration  
-AWS Services (currently learning)
+Linux System  
 
 ### Task Management
 **Tools:** Jira  
-**Methodologies:** Agile Scrum, Waterfall
+**Methodologies:** Agile/Scrum, Waterfall
 
