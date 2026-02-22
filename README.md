@@ -25,11 +25,13 @@
 JavaScript, TypeScript, Python
 
 ### Frameworks
-Primary tech: NodeJS (ExpressJS/NestJS), ReactJS
-Secondary tech: Pytorch, Tensorflow
+**Primary tech:** 
+NodeJS (ExpressJS/NestJS), ReactJS  
+**Secondary tech:**
+Pytorch, Tensorflow
 
 ### Development Tools
-**Version Control:** Git, GitHub, GitLab
+**Version Control:** Git, GitHub, GitLab  
 **CI/CD:** GitHub Actions  
 **Containers:** Docker, Kubernetes
 
@@ -42,6 +44,9 @@ Apache Kafka
 ### Cloud & Infrastructure
 Microservices Architecture  
 Linux System  
+Event-driven architecture  
+CQRS Pattern
+
 
 ### Task Management
 **Tools:** Jira  
